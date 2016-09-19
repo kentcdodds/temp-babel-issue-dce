@@ -1,0 +1,24 @@
+{
+  "name": "tmp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "babel foo.js"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "6.14.0",
+    "babel-plugin-minify-dead-code-elimination": "0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentcdodds/temp-babel-issue-dce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kentcdodds/temp-babel-issue-dce/issues"
+  },
+  "homepage": "https://github.com/kentcdodds/temp-babel-issue-dce#readme",
+  "description": ""
+}
